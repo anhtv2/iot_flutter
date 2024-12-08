@@ -1,2 +1,10 @@
-# iot_flutter
-IoT_Project_Flutter
+# Smart Home App
+
+1. Run on VSCode
+
+```
+bash install.sh
+```
+
+
+
